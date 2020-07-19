@@ -1,0 +1,29 @@
+{
+    "auth": {
+        "username": "<USERNAME>",
+        "access_key": "<ACCESS_KEY>"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "Windows 10",
+            "versions": [
+                "80",
+                "81"
+            ]
+        }
+    ],
+    "run_settings": {
+        "cypress_proj_dir": "./",
+        "project_name": "Cypress BrowserStack",
+        "build_name": "Cypress Samples v1",
+        "parallels": "5",
+        "npm_dependencies": {},
+        "package_config_options": {}
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null
+    },
+    "disable_usage_reporting": false
+}
