@@ -28,7 +28,7 @@ Test a sample local environment on BrowserStack
 * Update file cypress.json to ignore the other sample test and only pull up the local.feature file
 ```bash
 {
-    "ignoreTestFiles": ["*.js", "*.md", "**/cucumber-tests/login.feature"],
+    "ignoreTestFiles": ["**/samples/login.spec.js"],
     "viewportWidth": 1920,
     "viewportHeight": 1080
 }
