@@ -1,1 +1,1 @@
-# cypress-browserstack
+## Cypress tests for BrowserStack
