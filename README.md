@@ -1,4 +1,5 @@
 ## Cypress tests for BrowserStack
+<<<<<<< HEAD
 
 ## Setup
 * Clone the repo
@@ -66,3 +67,5 @@ Here are a few important links to get you started and help you  successfully int
 -   [Run Tests in Parallel](https://www.browserstack.com/docs/automate/cypress/run-tests-in-parallel)
 -   [Run Tests in CI/CD](https://www.browserstack.com/docs/automate/cypress/ci-cd-overview)
 
+=======
+>>>>>>> 0ac256cf6c4dd6aaa3aa52bdc9d99dd6eb21fc45
