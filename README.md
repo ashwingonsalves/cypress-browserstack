@@ -1,4 +1,5 @@
 ## Cypress tests for BrowserStack
+[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=ZVcxNWlicCtDRGc2SWNuNnVUVGVrZVVlbXlaWExlRVhHTmZMZERtTTVGQT0tLXBIdE5oSzZaRkYxeHNiSzBBOWN3Mmc9PQ==--fdb31ecbf723c09f5100da695d31231494c6f1b2)](https://automate.browserstack.com/public-build/<badge_key>)
 
 ## Setup
 * Clone the repo
