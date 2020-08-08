@@ -8,7 +8,7 @@
 * In order to run the sample test on BrowserStack you need to update the file browserstack.json with your username and access key.
 
 ## Running the test
-Run Cypress + Cucumber sample test locally on your machine:
+Run Cypress sample test locally on your machine:
 
 * Select Chrome, Firefox or Microsoft Edge browser
 ```bash
@@ -19,7 +19,7 @@ npm run cy:open
 npm run cy:headless
 ```
 
-Run Cypress + Cucumber sample test suite on BrowserStack 
+Run Cypress sample test suite on BrowserStack 
 ```bash
 npm run cy:browserstack
 ```
